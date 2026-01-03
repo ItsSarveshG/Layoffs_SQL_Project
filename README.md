@@ -1,4 +1,5 @@
 **SQL Project 1: World Layoffs Data Cleaning**
+
 *Project Overview*
 
 This project focuses on cleaning and preparing real-world layoff data using SQL.
@@ -7,6 +8,7 @@ The goal was to transform raw, inconsistent data into a clean, analysis-ready da
 
 
 **SQL Project 2: Exploratory Data Analysis (EDA) – World Layoffs**
+
 *Project Overview*
 
 This project performs Exploratory Data Analysis (EDA) on the cleaned layoffs dataset to uncover
