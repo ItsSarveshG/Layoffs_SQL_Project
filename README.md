@@ -36,6 +36,7 @@ Detect outliers and extreme layoff events
 Understand how layoffs evolved during different periods
 
 **** PROJECT 1 ****
+
 *Key SQL Techniques Used*
 
 CREATE TABLE & staging tables
@@ -65,7 +66,8 @@ Enabled meaningful exploratory and trend analysis
 
 
 **** PROJECT 2 ****
-*SQL Techniques Used*
+
+*Key SQL Techniques Used*
 
 GROUP BY & aggregate functions (SUM, MAX)
 Date functions (YEAR)
